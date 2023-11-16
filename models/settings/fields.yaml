@@ -1,0 +1,8 @@
+fields: 
+  mailrelay_account_name:
+    label: MailRelay account name
+    span: left
+  mailrelay_api_key:
+    label: MailRelay API key
+    span: left
+    commentAbove: Get an API Key from https://your-account-name.ipzmarketing.com/admin/api_keys/
